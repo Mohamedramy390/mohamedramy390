@@ -1,5 +1,45 @@
 # 💫 About Me:
-I’m Mohamed Ramy, a computer science enthusiast and Fullstack developer passionate about building clean and efficient web applications.I’m currently working on:<br><br>Front-end projects using React.js and React Native.A backend project in Node.js integrating AI features.I’m looking to collaborate on:Open-source web development projects.Innovative AI and automation solutions.Educational tech projects that make coding accessible to everyone.I’m looking for help with:Advanced AI/ML integration in real-world projects.Optimizing large-scale React applications.I’m currently learning:Advanced Node.js backend development.Reinforcement learning & MDPs.>Ask me about:<br><br>Front-end development best practices.<br><br>Competitive programming and coding challenges.Fun fact:I create educational short videos about programming and tech on social media.I’m also passionate about photography and videography, even with just a phone camera!
+# Hi, I'm Mohamed Ramy 👋
+
+I'm a computer science enthusiast and Fullstack developer passionate about building clean and efficient web applications.
+
+---
+
+## 🚀 Currently Working On
+- Front-end projects using **React.js** and **React Native**  
+- A backend project in **Node.js** integrating **AI features**
+
+---
+
+## 🤝 Looking to Collaborate On
+- Open-source web development projects  
+- Innovative AI and automation solutions  
+- Educational tech projects that make coding accessible to everyone
+
+---
+
+## 🆘 Looking for Help With
+- Advanced **AI/ML integration** in real-world projects  
+- Optimizing **large-scale React applications**
+
+---
+
+## 🎓 Currently Learning
+- Advanced **Node.js backend development**  
+- **Reinforcement Learning** & **MDPs**
+
+---
+
+## ❓ Ask Me About
+- Front-end development best practices  
+- Competitive programming and coding challenges
+
+---
+
+## 🎨 Fun Fact
+- I create educational short videos about programming and tech on social media  
+- I'm also passionate about photography and videography, even with just a phone camera!
+
 
 
 ## 🌐 Socials:
