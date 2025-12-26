@@ -25,8 +25,15 @@ I'm a computer science enthusiast and Fullstack developer passionate about build
 ---
 
 ## 🎓 Currently Learning
-- Advanced **Node.js backend development**  
-- **Reinforcement Learning** & **MDPs**
+
+- **Advanced Node.js Backend Development**  
+  Building scalable, secure, and high-performance server-side applications using Node.js, with a focus on architecture, APIs, and optimization.
+
+- **Generative AI & AI Integration**  
+  Understanding Generative AI concepts and learning how to integrate AI models into real-world software systems and applications.
+
+- **Web Application Penetration Testing**  
+  Studying web security fundamentals, common vulnerabilities, and penetration testing techniques to identify and mitigate security risks.
 
 ---
 
