@@ -36,11 +36,6 @@ I am a computer science student and full‑stack developer focused on building s
 * Data Structures & Algorithms
 * Competitive Programming Fundamentals
 
-**Tools & Platforms**
-
-* Git & GitHub
-* NPM, Webpack
-* Netlify, Render
 
 ---
 
@@ -63,7 +58,7 @@ I am a computer science student and full‑stack developer focused on building s
 
 ## Content & Media
 
-I create short educational videos about programming and software engineering, and I enjoy photography and videography with a strong focus on composition and lighting.
+I create educational videos about programming and software engineering, including long‑form educational content on YouTube
 
 ---
 
