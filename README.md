@@ -1,51 +1,71 @@
-# 💫 About Me:
-# Hi, I'm Mohamed Ramy 👋
+# Mohamed Ramy
 
-I'm a computer science enthusiast and Fullstack developer passionate about building clean and efficient web applications.
+## Full‑Stack Developer | Computer Science Student
 
----
-
-## 🚀 Currently Working On
-- Front-end projects using **React.js** and **React Native**  
-- A backend project in **Node.js** integrating **AI features**
+I am a computer science student and full‑stack developer focused on building scalable, maintainable, and secure web applications. I have hands‑on experience with modern frontend frameworks, backend development, and integrating AI features into real‑world systems.
 
 ---
 
-## 🤝 Looking to Collaborate On
-- Open-source web development projects  
-- Innovative AI and automation solutions  
-- Educational tech projects that make coding accessible to everyone
+## Core Focus
+
+* Building modern web and mobile applications using **React.js** and **React Native**
+* Developing scalable backends with **Node.js** and **Express.js**
+* Integrating **AI and Generative AI** features into production systems
+* Writing clean, well‑structured, and maintainable code
 
 ---
 
-## 🆘 Looking for Help With
-- Advanced **AI/ML integration** in real-world projects  
-- Optimizing **large-scale React applications**
+## Technical Skills
+
+**Frontend**
+
+* React.js, React Native
+* JavaScript (ES6+), TypeScript
+* HTML5, CSS3, Bootstrap
+* Redux, React Query, React Hook Form, React Router
+
+**Backend**
+
+* Node.js, Express.js
+* RESTful APIs
+* MongoDB, MySQL
+
+**Programming & CS**
+
+* C++, Python
+* Data Structures & Algorithms
+* Competitive Programming Fundamentals
+
+**Tools & Platforms**
+
+* Git & GitHub
+* NPM, Webpack
+* Netlify, Render
 
 ---
 
-## 🎓 Currently Learning
+## Currently Learning
 
-- **Advanced Node.js Backend Development**  
-  Building scalable, secure, and high-performance server-side applications using Node.js, with a focus on architecture, APIs, and optimization.
-
-- **Generative AI & AI Integration**  
-  Understanding Generative AI concepts and learning how to integrate AI models into real-world software systems and applications.
-
-- **Web Application Penetration Testing**  
-  Studying web security fundamentals, common vulnerabilities, and penetration testing techniques to identify and mitigate security risks.
+* Advanced Node.js backend architecture and performance optimization
+* Generative AI concepts and AI integration in software systems
+* Web application security and penetration testing fundamentals
 
 ---
 
-## ❓ Ask Me About
-- Front-end development best practices  
-- Competitive programming and coding challenges
+## Interests
+
+* Open‑source collaboration
+* Educational technology
+* AI‑powered developer tools
+* Technical content creation
 
 ---
 
-## 🎨 Fun Fact
-- I create educational short videos about programming and tech on social media  
-- I'm also passionate about photography and videography, even with just a phone camera!
+## Content & Media
+
+I create short educational videos about programming and software engineering, and I enjoy photography and videography with a strong focus on composition and lighting.
+
+---
 
 
 
